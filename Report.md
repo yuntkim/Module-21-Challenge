@@ -7,4 +7,4 @@
   * Model Optimization: We didn't mention the steps taken to improve model performance.
 
 ### Summary:
-* Our analysis lacks concrete performance metrics to determine whether our model achieved the desired results. To enhance model performance, we recommend exploring different model architectures, fine-tuning hyperparameters, conducting feature engineering, and carefully evaluating model performance using relevant metrics. This approach will lead to a more effective solution for the classification problem at hand.
+* Our analysis didn't provide clear measures to gauge our model's success. To make it better, we should try different model types, adjust settings, improve the data, and use metrics to measure how well it's doing. This will help us solve the classification problem more effectively.
